@@ -136,8 +136,7 @@ div.cntWrap.cntWrap01>div.content.cnt01>div.section>div.artGroup>div.art{
     float: left;
     /* margin: 0 10px; */
 }
-div.cntWrap.cntWrap01>div.content.cnt01>div.section>div.artGroup>div.art{
-}
+
 div.cntWrap.cntWrap01>div.content.cnt01>div.section>div.artGroup>div.art>div.artTop{
     width: calc(100% / 12 * 10);
     margin: 0px auto;
@@ -178,14 +177,12 @@ div.cntWrap.cntWrap01>div.content.cnt01>div.section>div.artGroup>div.art>div.art
     display: block;
     clear: both;
 }
-div.cntWrap.cntWrap01>div.content.cnt01>div.section>div.artGroup>div.art>div.artTop>div.article>div.texts>div.txtBox>ul.nanido{}
 div.cntWrap.cntWrap01>div.content.cnt01>div.section>div.artGroup>div.art>div.artTop>div.article>div.texts>div.txtBox>ul.nanido:nth-child(1){
     margin-left: 20px;
 }
 div.cntWrap.cntWrap01>div.content.cnt01>div.section>div.artGroup>div.art>div.artTop>div.article>div.texts>div.txtBox>ul.nanido>li{
     float: left;
 }
-div.cntWrap.cntWrap01>div.content.cnt01>div.section>div.artGroup>div.art>div.artTop>div.article>div.texts>div.txtBox>ul.nanido>li>i{}
 div.cntWrap.cntWrap01>div.content.cnt01>div.section>div.artGroup>div.art>div.artTop>div.article>div.texts>div.txtBox>ul.nanido>h5{
     float: right;
     margin-right: 20px;
@@ -259,14 +256,14 @@ div.cntWrap.cntWrap01>div.content.cnt01>div.section>div.artGroup>div.art>div.art
     display: block;
     clear: both;
 }
-div.cntWrap.cntWrap01>div.content.cnt01>div.section>div.artGroup>div.art>div.artBtm>div.article>div.texts>div.txtBox>ul.nanido{}
+
 div.cntWrap.cntWrap01>div.content.cnt01>div.section>div.artGroup>div.art>div.artBtm>div.article>div.texts>div.txtBox>ul.nanido:nth-child(1){
     margin-left: 20px;
 }
 div.cntWrap.cntWrap01>div.content.cnt01>div.section>div.artGroup>div.art>div.artBtm>div.article>div.texts>div.txtBox>ul.nanido>li{
     float: left;
 }
-div.cntWrap.cntWrap01>div.content.cnt01>div.section>div.artGroup>div.art>div.artBtm>div.article>div.texts>div.txtBox>ul.nanido>li>i{}
+
 div.cntWrap.cntWrap01>div.content.cnt01>div.section>div.artGroup>div.art>div.artBtm>div.article>div.texts>div.txtBox>ul.nanido>h5{
     float: right;
     margin-right: 20px;
@@ -378,10 +375,6 @@ div.cntWrap.cntWrap02{
     background-color: #0d0d0d;
     color: #fff;
 }
-div.cntWrap.cntWrap02>div.content.cnt02{}
-div.cntWrap.cntWrap02>div.content.cnt02>div.section{
-  
-}
 div.cntWrap.cntWrap02>div.content.cnt02>div.section>div.article{
     position: relative;
     height: 680px;
@@ -423,9 +416,6 @@ div.cntWrap.cntWrap02>div.content.cnt02>div.section>div.article>div.textBox>div.
     line-height: 40px;
 
 }
-div.cntWrap.cntWrap02>div.content.cnt02>div.section>div.article>div.textBox>div.texts>div.txtTop{}
-div.cntWrap.cntWrap02>div.content.cnt02>div.section>div.article>div.textBox>div.texts>div.txtTop>h5{
-}
 div.cntWrap.cntWrap02>div.content.cnt02>div.section>div.article>div.textBox>div.texts>div>h5{
     width: calc(100% / 2 );
     height: 40px;
@@ -445,9 +435,6 @@ div.cntWrap.cntWrap02>div.content.cnt02>div.section>div.article>div.textBox>div.
     height: 140px;
     overflow: hidden;
 }
-div.cntWrap.cntWrap02>div.content.cnt02>div.section>div.article>div.textBox>div.texts>div.txtBtm{}
-div.cntWrap.cntWrap02>div.content.cnt02>div.section>div.article>div.textBox>div.texts>div.txtBtm>h5{
-}
 div.cntWrap.cntWrap02>div.content.cnt02>div.section>div.article>div.textBox>div.texts>div.txtBtm>p{
     font-size: 12px;
     line-height: 20px;
@@ -466,11 +453,6 @@ div.cntWrap.cntWrap03{
     background-position: left bottom;
     padding: 40px 0px;
 }
-div.cntWrap.cntWrap03>div.content.cnt03{}
-div.cntWrap.cntWrap03>div.content.cnt03>div.cntTop{}
-div.cntWrap.cntWrap03>div.content.cnt03>div.cntTop>div.header{
-    
-}
 div.cntWrap.cntWrap03>div.content.cnt03>div.cntTop>div.header>h2{
     font-size: 18px;
     line-height: 40px;
@@ -481,13 +463,10 @@ div.cntWrap.cntWrap03>div.content.cnt03>div.cntTop>div.header>h2{
 div.cntWrap.cntWrap03>div.content.cnt03>div.cntTop>div.section{
     margin-top: 40px;
 }
-div.cntWrap.cntWrap03>div.content.cnt03>div.cntTop>div.section>div.article{}
 div.cntWrap.cntWrap03>div.content.cnt03>div.cntTop>div.section>div.article::after{
     content: '';
     display: block;
     clear: both;
-}
-div.cntWrap.cntWrap03>div.content.cnt03>div.cntTop>div.section>div.article>div.artLeft{
 }
 div.cntWrap.cntWrap03>div.content.cnt03>div.cntTop>div.section>div.article>div.artLeft>div.image{
     width: calc(100% / 12 * 5 - 20px);
@@ -536,7 +515,7 @@ div.cntWrap.cntWrap03>div.content.cnt03>div.cntTop>div.section>div.article>div.a
 div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm{
     margin-top: 40px;
 }
-div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm>div.header{}
+
 div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm>div.header>h3{
     font-size: 15px;
     line-height: 40px;
@@ -547,7 +526,7 @@ div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm>div.header>h3{
 div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm>div.section{
     margin-top: 40px;
 }
-div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm>div.section>div.article{}
+
 div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm>div.section>div.article>div.map{
     width: 100%;
     height: 400px;
@@ -562,22 +541,6 @@ div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm>div.section>div.article>div.t
 div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm>div.section>div.article>div.texts>div>i{
     font-size: 20px;
 }
-div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm>div.section>div.article>div.texts>div.tel{}
-div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm>div.section>div.article>div.texts>div.tel>i{  
-}
-div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm>div.section>div.article>div.texts>div.tel>span{}
-div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm>div.section>div.article>div.texts>div.map{}
-div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm>div.section>div.article>div.texts>div.map>i{
-}
-div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm>div.section>div.article>div.texts>div.map>span{}
-div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm>div.section>div.article>div.texts>div.time{}
-div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm>div.section>div.article>div.texts>div.time>i{
-}
-div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm>div.section>div.article>div.texts>div.time>span{}
-div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm>div.section>div.article>div.texts>div.price{}
-div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm>div.section>div.article>div.texts>div.price>i{
-}
-div.cntWrap.cntWrap03>div.content.cnt03>div.cntBtm>div.section>div.article>div.texts>div.price>span{}
 
 /* 푸터 */
 div.ftrWrap{
@@ -604,10 +567,6 @@ div.ftrWrap>div.footer>div.ftrTop::after{
     content: '';
     display: block;
     clear: both;
-}
-div.ftrWrap>div.footer>div.ftrTop>div.ftrTopLeft{
-}
-div.ftrWrap>div.footer>div.ftrTop>div.ftrTopLeft>ul.nav{
 }
 div.ftrWrap>div.footer>div.ftrTop>div.ftrTopLeft>ul.nav>li{
     font-size: 12px;
@@ -645,7 +604,6 @@ div.ftrWrap>div.footer>div.ftrBtm{
     margin: 0 auto;
     padding: 20px 0px;
 }
-div.ftrWrap>div.footer>div.ftrBtm>div.header{}
 div.ftrWrap>div.footer>div.ftrBtm>div.header>h1{
     font-size: 20px;
     line-height: 40px;
@@ -661,7 +619,6 @@ div.ftrWrap>div.footer>div.ftrBtm>div.header>h5{
     font-size: 12px;
     line-height: 20px;
 }
-div.ftrWrap>div.footer>div.ftrBtm>div.sns{}
 div.ftrWrap>div.footer>div.ftrBtm>div.sns>i{
     font-size: 25px;
     margin-top: 20px;
