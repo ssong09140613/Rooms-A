@@ -20,7 +20,6 @@ div.hdrWrap>div.header>div.mbnav{
     top: 50px;
     right: -10px;
 }
-div.hdrWrap>div.header>div.mbnav>ul.bar{}
 div.hdrWrap>div.header>div.mbnav>ul.bar>li{
     font-size: 13px;
     line-height: 40px;
@@ -69,7 +68,7 @@ div.cntWrap.cntWrap01>div.content.cnt01>div.section>div.artGroup>div.art>div.art
     height: 140px;
 }
 div.cntWrap.cntWrap01>div.content.cnt01>div.section>div.btns{
-    height: 30px;
+    height: 60px;
 }
 
 /* 배너1 */
