@@ -83,7 +83,7 @@ div.bnrWrap.bnrWrap01>div.banner.banner01>div.image.i1{
     margin: 0 auto;
 }
 div.bnrWrap.bnrWrap01>div.banner.banner01>h5{
-    display: none;
+    font-size: 12px;
 }
 /* 배너2 */
 div.bnrWrap.bnrWrap02{
