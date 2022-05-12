@@ -384,11 +384,11 @@ div.ftrWrap>div.footer>div.ftrTop>div.ftrTopRight>ul.nav:hover{
     cursor: pointer;
     color: #fc0;
 }
-div.ftrWrap>div.footer>div.ftrTop>div.ftrTopRight>ul.nav>i{
+div.ftrWrap>div.footer>div.ftrTop>div.ftrTopRight>ul.nav>li>i{
     font-size: 20px;
     line-height: 20px;
 }
-div.ftrWrap>div.footer>div.ftrTop>div.ftrTopRight>ul.nav>h6{
+div.ftrWrap>div.footer>div.ftrTop>div.ftrTopRight>ul.nav>li>h6{
     font-size: 15px;
     line-height: 20px;
     margin-top: -5px;
