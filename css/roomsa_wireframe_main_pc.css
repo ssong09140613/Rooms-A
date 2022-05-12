@@ -85,10 +85,10 @@ div.mainWrap>div.main>div.article>div.image{
     
 }
 div.mainWrap>div.main>div.article>div.texts{
-    width: calc(100% / 10 * 4.5);
+    width: calc(100% / 10 * 5);
     float: left;
     color: #fff;
-   padding: 40px 50px;
+   padding: 80px 67px;
    
 }
 div.mainWrap>div.main>div.article>div.texts>p{
