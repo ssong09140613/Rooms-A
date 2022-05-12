@@ -1,3 +1,6 @@
+body{
+    background-color: #000;
+}
 /* 헤더 */
 div.hdrWrap{
     background-color: #000712;
