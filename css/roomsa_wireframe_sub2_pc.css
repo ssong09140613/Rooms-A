@@ -359,7 +359,6 @@ div.cntWrap.cntWrap02{
 div.cntWrap.cntWrap02>div.content.cnt02{
     color: #fff;
 }
-div.cntWrap.cntWrap02>div.content.cnt02>div.header{}
 div.cntWrap.cntWrap02>div.content.cnt02>div.header>h2{
     font-size: 18px;
     line-height: 40px;
@@ -380,7 +379,6 @@ div.cntWrap.cntWrap02>div.content.cnt02>div.section>div.thumbView>div.artGroup{
     width: 500%;
     transition: margin-left 0.5s;
 }
-div.cntWrap.cntWrap02>div.content.cnt02>div.section>div.thumbView>div.artGroup>div.article{}
 div.cntWrap>div.content>div.section>div.thumbView>div.artGroup::after{
     content: '';
     display: block;
@@ -454,14 +452,12 @@ div.cntWrap>div.content>div.section>div.btns>div.btn{
     font-size: 70px;
     line-height: 120px;
 }
-div.cntWrap>div.content>div.section>div.thumbView>div.btns>div.btn>div.btnLeft{}
 div.cntWrap>div.content>div.section>div.btns>div.btn>div.btnLeft>i{
     float: left;
 }
 div.cntWrap>div.content>div.section>div.btns>div.btn>div.btnLeft:hover>i{
     color: #fc0;
 }
-div.cntWrap>div.content>div.section>div.thumbView>div.btns>div.btn>div.btnRight{}
 div.cntWrap>div.content>div.section>div.btns>div.btn>div.btnRight>i{
     float: right;
 }
@@ -534,10 +530,6 @@ div.ftrWrap>div.footer>div.ftrTop::after{
     display: block;
     clear: both;
 }
-div.ftrWrap>div.footer>div.ftrTop>div.ftrTopLeft{
-}
-div.ftrWrap>div.footer>div.ftrTop>div.ftrTopLeft>ul.nav{
-}
 div.ftrWrap>div.footer>div.ftrTop>div.ftrTopLeft>ul.nav>li{
     font-size: 11px;
     line-height: 40px;
@@ -574,7 +566,6 @@ div.ftrWrap>div.footer>div.ftrBtm{
     margin: 0 auto;
     padding: 20px 0px;
 }
-div.ftrWrap>div.footer>div.ftrBtm>div.header{}
 div.ftrWrap>div.footer>div.ftrBtm>div.header>h1{
     font-size: 20px;
     line-height: 40px;
@@ -590,7 +581,6 @@ div.ftrWrap>div.footer>div.ftrBtm>div.header>h5{
     font-size: 12px;
     line-height: 20px;
 }
-div.ftrWrap>div.footer>div.ftrBtm>div.sns{}
 div.ftrWrap>div.footer>div.ftrBtm>div.sns>i{
     font-size: 25px;
     margin-top: 20px;
