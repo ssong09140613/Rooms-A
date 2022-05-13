@@ -314,6 +314,9 @@ div.cntWrap.cntWrap02>div.content.cnt02>div.section>div.artGroup>div.article>div
     line-height: 40px;
     margin-top: 40px;
 }
+div.cntWrap.cntWrap02>div.content.cnt02>div.section>div.artGroup>div.article>div.texts>p:nth-child(1){
+    cursor: pointer;
+}
 div.cntWrap.cntWrap02>div.content.cnt02>div.section>div.artGroup>div.article>div.texts>p:nth-last-child(1){
     width: 74%;
     font-size: 15px;
