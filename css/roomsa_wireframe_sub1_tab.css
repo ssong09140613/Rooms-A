@@ -196,8 +196,7 @@ div.ftrWrap>div.footer>div.ftrBtm>div.header>h4{
     font-size: 12px;
     line-height: 20px;
 }
-
-div.ftrWrap>div.footer>div.ftrBtm>div.sns>i{
+div.ftrWrap>div.footer>div.ftrBtm>ul.sns>i{
     font-size: 24px;
     margin-top: 15px;
 }
