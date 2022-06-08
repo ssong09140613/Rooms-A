@@ -12,7 +12,7 @@ div.hdrWrap>div.header{
 div.hdrWrap>div.header>div.logo{
     width: 170px;
     height: 80px;
-    background-image: url('./images/W-image/header/logo1.png');
+    background-image: url('./images/W-image/header/logo.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: left;
