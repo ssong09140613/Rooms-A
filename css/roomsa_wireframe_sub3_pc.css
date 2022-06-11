@@ -407,7 +407,7 @@ div.ftrWrap>div.footer>div.ftrBtm>ul::after{
     clear: both;
 }
 div.ftrWrap>div.footer>div.ftrBtm>ul{
-    width: calc(100% / 12 * 3.5);
+    width: calc(100% / 12 * 3);
     margin: 0 auto;
 }
 div.ftrWrap>div.footer>div.ftrBtm>ul.sns>li{
