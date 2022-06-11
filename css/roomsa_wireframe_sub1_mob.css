@@ -199,3 +199,6 @@ div.ftrWrap>div.footer>div.ftrBtm>div.header>h4{
 div.ftrWrap>div.footer>div.ftrBtm>div.header>h5{
     display: none;
 }
+div.ftrWrap>div.footer>div.ftrBtm>ul.sns>li{
+    margin-left: 3px;
+}

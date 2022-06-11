@@ -12,7 +12,7 @@ div.hdrWrap>div.header{
 div.hdrWrap>div.header>div.logo{
     width: 170px;
     height: 80px;
-    background-image: url('./images/W-image/header/logo1.png');
+    background-image: url('./images/W-image/header/logo.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: left;
@@ -522,11 +522,25 @@ div.ftrWrap>div.footer>div.ftrBtm>div.header>h5{
     font-size: 12px;
     line-height: 20px;
 }
-div.ftrWrap>div.footer>div.ftrBtm>div.sns>i{
+div.ftrWrap>div.footer>div.ftrBtm>ul::after{
+    content: '';
+    display: block;
+    clear: both;
+}
+div.ftrWrap>div.footer>div.ftrBtm>ul{
+    width: calc(100% / 12 * 3.5);
+    margin: 0 auto;
+}
+div.ftrWrap>div.footer>div.ftrBtm>ul.sns>li{
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+div.ftrWrap>div.footer>div.ftrBtm>ul.sns>i{
     font-size: 25px;
-    margin-top: 20px;
+    text-align: center;
     cursor: pointer;
 }
-div.ftrWrap>div.footer>div.ftrBtm>div.sns>i:hover{
+div.ftrWrap>div.footer>div.ftrBtm>ul.sns>i:hover{
     color: #000;
 }
